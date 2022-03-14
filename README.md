@@ -40,7 +40,9 @@
 
 There are  only 2 required dependencies, however the rest require some configuration before you can replace them.
 2 commit
-3commit
+<head>
+    <!-- no style -->
+  </head>3commit
 ## Requried dependencies
 
 * [`jq`](https://github.com/stedolan/jq)
