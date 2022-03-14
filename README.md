@@ -39,7 +39,7 @@
 # Dependencies
 
 There are only 2 required dependencies, however the rest require some configuration before you can replace them.
-2 commit
+bracnh22 commit
 3commit
 ## Requried dependencies
 
