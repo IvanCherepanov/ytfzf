@@ -40,7 +40,7 @@
 
 There are only 2 required dependencies, however the rest require some configuration before you can replace them.
 bracnh22 commit
-3commit
+branch23commit
 ## Requried dependencies
 
 * [`jq`](https://github.com/stedolan/jq)
